@@ -1,0 +1,18 @@
+#phone {
+  width: 200px;
+  border: 60px dashed green;
+}
+
+#logo {
+  height: 20px;
+  left: 100px;
+  top: 300px;
+}
+
+.btn {
+  height: 100px;
+}
+
+#slogan {
+  height: 10p;
+}
