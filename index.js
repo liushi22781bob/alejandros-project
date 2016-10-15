@@ -1,6 +1,6 @@
-YESSS WE CAN HEAR YOU!
 
-var width = 10
+
+var width = 
 setInterval(function() {
   width = width + 10
   get("#logo").css({width:width})
